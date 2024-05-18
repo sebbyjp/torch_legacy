@@ -13,6 +13,7 @@ Example flags that may or may not work: --model=rt1 --batch_size=8 --num_epochs=
 Fork of octo being used: octo@git+https://github.com/sebbyjp/octo.git@peralta
 
 Smallest dataset to use: ucsd_kitchen_dataset_converted_externally_to_rlds
+
 Finetuning dataset: pick_coke_can_place_left_of_spoon.hdf5
 
 Dataset most similar to the finetuning dataset: bridge
