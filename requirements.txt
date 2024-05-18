@@ -1,0 +1,22 @@
+
+ray[tune]
+memory_profiler
+gym
+tensorflow_hub
+torch
+lightning
+scikit-image
+matplotlib
+moviepy 
+imageio
+torchvision
+wandb
+pytorch_warmup==0.1.1
+tensorflow-datasets==4.9.3
+olefile ==0.47
+einops ==0.7.0
+classifier-free-guidance-pytorch==0.5.1
+octo @ git+https://github.com/sebbyjp/octo.git@peralta
+importlib-resources == 6.1.1
+datasets
+
